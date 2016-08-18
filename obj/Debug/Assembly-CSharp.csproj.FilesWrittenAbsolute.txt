@@ -1,0 +1,17 @@
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/UnityEngine.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/UnityEditor.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jperrella/Projects/Unity/LaserDefender/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jperrella/Projects/Unity/LaserDefender/obj/Debug/Assembly-CSharp.dll
+/Users/jperrella/Projects/Unity/LaserDefender/obj/Debug/Assembly-CSharp.dll.mdb
